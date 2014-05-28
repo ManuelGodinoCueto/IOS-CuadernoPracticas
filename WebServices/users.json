@@ -1,0 +1,34 @@
+{
+    "Professor": [
+        {
+            "Name": "ProfessorName1",
+            "Twitter": "@UC3MTADSG42"
+        },
+        {
+            "Name": "ProfessorName2",
+            "Twitter": "@ProfessorName2"
+        }
+    ],
+    "Student": [
+        {
+            "Name": "StudentName1",
+            "Twitter": "@alumno001"
+        },
+        {
+            "Name": "StudentName2",
+            "Twitter": "@alumno002"
+        },
+        {
+            "Name": "StudentName3",
+            "Twitter": "@alumno003"
+        },
+        {
+            "Name": "StudentName4",
+            "Twitter": "@alumno004"
+        },
+        {
+            "Name": "StudentName5",
+            "Twitter": "@alumno005"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notTwitterAccountsErrorMessage</key>
+	<string>No hay cuentas Twitter añadidas</string>
+	<key>importedPDFURL</key>
+	<string></string>
+	<key>twitterUsernameSelectedRol</key>
+	<string></string>
+	<key>notAProfessorOrStudentErrorMessage</key>
+	<string>No eres un profesor o un alumno</string>
+	<key>connectionErrorMessage</key>
+	<string>No se ha podido conectar a IOS-CuadernoPracticas</string>
+	<key>mySelectedRow</key>
+	<string></string>
+	<key>numberOfTwitterAccounts</key>
+	<string></string>
+	<key>twitterID</key>
+	<string></string>
+	<key>twitterUsernameSelected</key>
+	<string></string>
+	<key>webServicePath</key>
+	<string>http://xxxxxxxxxxxxxxx/TFG/IOS-CuadernoPracticas/</string>
+	<key>webServiceDownloadPDF</key>
+	<string>downloadPDF.php?fromFolder=%@</string>
+	<key>webServiceJSONResponseKey</key>
+	<string>Response</string>
+	<key>webServiceUploadPDF</key>
+	<string>uploadPDF.php?toFolder=%@</string>
+	<key>webServiceGetRate</key>
+	<string>getRate.php?toPractice=%@&amp;toTwitterUsername=%@</string>
+	<key>webServiceSetRate</key>
+	<string>setRate.php?toPractice=%@&amp;toTwitterUsername=%@&amp;withRate=%@&amp;withComment=%@</string>
+	<key>webServiceUploadVideo</key>
+	<string>uploadVideo.php?toFolder=%@</string>
+	<key>webServiceGetFileList</key>
+	<string>getFileList.php?withTwitterUsername=%@</string>
+	<key>webServiceGetUserRole</key>
+	<string>getUserRole.php?withTwitterUsername=%@</string>
+</dict>
+</plist>
